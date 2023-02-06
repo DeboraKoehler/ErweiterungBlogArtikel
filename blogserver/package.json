@@ -28,7 +28,7 @@
     "@nestjs/platform-fastify": "^8.4.7",
     "cors": "^2.8.5",
     "fastify-cors": "^6.1.0",
-    "mongoose": "^6.6.1",
+    "mongoose": "^6.9.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0"
