@@ -1,5 +1,5 @@
 import { Connection } from 'mongoose';
-import { ArticleSchema } from './schema/article.schema';
+import { ArticleSchema } from './schemas/article.schema';
 export const articleProviders = [
     {
         provide: 'ARTICLE_MODEL',
